@@ -14,7 +14,7 @@ export function Header() {
   return (
     <HeaderContainer>
       <span>
-        <NavLink to="/Coffee_delivery/" title="Home">
+        <NavLink to="/Coffee-Delivery/" title="Home">
           <img src={LogoCoffe} alt="" />
         </NavLink>
       </span>
@@ -25,7 +25,7 @@ export function Header() {
         </span>
         <nav>
           <NotificationBadge>{amountCoffes}</NotificationBadge>
-          <NavLink to="/Coffee_delivery/cart" title="Cart">
+          <NavLink to="/Coffee-Delivery/cart" title="Cart">
             <ShoppingCart size={22} weight="fill"/>
           </NavLink>
         </nav>

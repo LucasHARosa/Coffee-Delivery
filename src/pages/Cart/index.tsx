@@ -68,7 +68,7 @@ export function Cart() {
             </div>
           </DivInfos>
           {allValuesAreNotEmpty ?
-            <NavLink to="/Coffee_delivery/order" title="order">
+            <NavLink to="/Coffee-Delivery/order" title="order">
               <CheckButton>
                 ACOMPANHAR
               </CheckButton>
