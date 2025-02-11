@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Coffee_delivery)
-![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/Coffee_delivery)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/Coffee_delivery)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/Coffee_delivery)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Coffee-Delivery)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/Coffee-Delivery)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/Coffee-Delivery)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/Coffee-Delivery)
 
 # Coffee Delivery
 
